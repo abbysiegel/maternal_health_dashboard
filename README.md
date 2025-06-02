@@ -9,7 +9,7 @@ This project is a data visualization dashboard that explores global and regional
 ## 🧰 Tools & Technologies
 
 - **Tableau Public** – for interactive dashboard creation
-- **SQL** *(optional)* – for data cleaning in Tableau
+- **SQL** – for data cleaning in Tableau
 - **GitHub** – for version control and documentation
 
 ---
