@@ -17,7 +17,7 @@ This project is a data visualization dashboard that explores global and regional
 ## 📊 Data Sources
 
 - [World Bank Maternal Mortality Ratio](https://data.worldbank.org/indicator/SH.STA.MMRT)
-- [CDC Wonder](https://wonder.cdc.gov/)
+- [CDC]([https://wonder.cdc.gov/](https://www.cdc.gov/nchs/maternal-mortality/data.htm))
 - [WHO Global Health Observatory](https://www.who.int/data/gho)
 - [March of Dimes PeriStats](https://www.marchofdimes.org/peristats)
 - [County Health Rankings](https://www.countyhealthrankings.org/)
